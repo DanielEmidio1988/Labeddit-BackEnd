@@ -2,10 +2,19 @@
 
 ## 📖 Introdução
 
+Este é um projeto Web Full Stack desenvolvido no Bootcamp Labenu, dividido em 2 repositórios (Labeddit-BackEnd e Labeddit-FrontEnd), onde o usuário tem acesso a rede social Labeddit. Dentro da aplicação, você poderá criar seu cadastro e interagir com as publicações (curtir, comentar, editar) de outros usuários.
+
 API construida para o gerenciamento das informações da Base de Dados da aplicação do Labeddit, onde você pode manipular informações de cadastro de usuários e publicações.
 
 ## 🔗Link de Acesso
-- Render: [clique aqui!](https://labedditbackend.onrender.com) 
+- Deploy Render: [clique aqui!](https://labedditbackend.onrender.com) 
+- Labeddit-FrontEnd: [clique aqui!](https://github.com/DanielEmidio1988/Labeddit-FrontEnd)
+
+## 👥Equipe
+- DANIEL EMIDIO
+
+## 🧭Status do Projeto
+- ⏳Concluido
 
 ### 📄Concepção do Projeto
 Documentação Postman: [clique aqui!]('https://documenter.getpostman.com/view/24460616/2s93JnUmbg')
@@ -50,6 +59,14 @@ Ao todo, foram aplicados testes unitários em 70% da aplicação.
 ## 💡Programas utilizados:
 - Postman API Platform
 - VSCode
+
+## 💻Tecnologias 
+
+![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📫 Contato
 
